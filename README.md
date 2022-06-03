@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi , I'm Siddharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/sid121212"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;JavaScript%20|%20React%20|%20Javascript%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
 
 <h4 align="center">
-I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
-	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
+I'm an Undergraduate based in India 🙏, I am passionate about DSA, Competitive Programming, and web technologies. <br />
+	Besides my College Studies, I like to create new web applications. It helps me learn a lot and grow as a developer while also excelling Data Structures and Algorithms.
 </h4>
 <br>
 
@@ -23,7 +23,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+      src="https://github-profile-trophy.vercel.app/?username=sid121212&row=1&column=3&theme=algolia" alt="Siddharth" /></a>  </p>
 
 <!-- algolia -->
 <br>
@@ -45,8 +45,8 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 	<a href="mailto:siddharthmehta121212@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/sid121212"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://in.linkedin.com/in/siddharthmehta121212"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/jay_pavasiya"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	<a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
+	<a href="https://codeforces.com/Siddharth_Mehta1311"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" title='Codeforces' alt="Codeforces"/></a>
+	<a href="https://leetcode.com/sid_121212/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title='Leetcode' alt="Leetcode"/></a>
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
