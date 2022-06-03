@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi , I'm Siddharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/sid121212"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;JavaScript%20|%20React%20|%20Javascript%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/sid121212"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;JavaScript%20|%20React%20|%20Django%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
 
 <h4 align="center">
-I'm an Undergraduate based in India 🙏, I am passionate about DSA, Competitive Programming, and web technologies. <br />
+I'm an 4th year Undergraduate at NIIT University🙏, I am passionate about DSA, Competitive Programming, and web technologies. <br />
 	Besides my College Studies, I like to create new web applications. It helps me learn a lot and grow as a developer while also excelling Data Structures and Algorithms.
 </h4>
 <br>
