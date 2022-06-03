@@ -32,12 +32,12 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/sid121212"><img alt="Sid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sid121212&custom_title=Sid's%20Contribution%20Graph&theme=react-dark" /></a>
 
+## 🐍
+  <br>
+  <p align="center">
+  ![snake gif](https://github.com/sid121212/sid121212/blob/output/github-contribution-grid-snake.gif)
+</p>
 
-<hr/>
-
-![snake gif](https://github.com/sid121212/sid121212/blob/output/github-contribution-grid-snake.gif)
-
-<hr/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
