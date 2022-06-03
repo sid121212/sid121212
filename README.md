@@ -35,7 +35,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 <hr/>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sid121212/sid121212/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>
 
