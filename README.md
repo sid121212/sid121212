@@ -6,7 +6,7 @@
 </p>
 <hr/>
 
-
+<!--countprivate--!>
 <h4 align="center">
 I'm an 4th year Undergraduate at NIIT University🙏, I am passionate about DSA, Competitive Programming, and web technologies. <br />
 	Besides my College Studies, I like to create new web applications. It helps me learn a lot and grow as a developer while also excelling Data Structures and Algorithms.
