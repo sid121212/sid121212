@@ -16,7 +16,7 @@ I'm an 4th year Undergraduate at NIIT University🙏, I am passionate about DSA,
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sid121212&theme=algolia" alt="Siddharth" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid121212&theme=algolia&layout=compact" alt="Siddharth" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid121212&count_private=true&theme=algolia&layout=compact" alt="Siddharth" /></p>
 
 <br>
 <hr/>
