@@ -20,13 +20,7 @@ I'm a 4th year Undergraduate at NIIT University, I am passionate about DSA, Comp
 <br>
 <hr/>
 
-## 🏆 Trophies
-<p align="center"> <a href="https://github.com/sid121212"><img
-      src="https://github-profile-trophy.vercel.app/?username=sid121212&row=1&column=3&theme=algolia" alt="Siddharth" /></a>  </p>
 
-<!-- algolia -->
-<br>
-<hr/>
 
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/sid121212"><img alt="Sid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sid121212&custom_title=Sid's%20Contribution%20Graph&theme=react-dark" /></a>
