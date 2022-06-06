@@ -22,7 +22,7 @@ I'm a 4th year Undergraduate at NIIT University, I am passionate about DSA, Comp
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/jaypavasiya"><img
+<p align="center"> <a href="https://github.com/sid121212"><img
       src="https://github-profile-trophy.vercel.app/?username=sid121212&row=1&column=3&theme=algolia" alt="Siddharth" /></a>  </p>
 
 <!-- algolia -->
