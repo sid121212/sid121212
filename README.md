@@ -13,25 +13,6 @@ I'm a 4th year Undergraduate at NIIT University, I am passionate about DSA, Comp
 <br>
 
 
-## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sid121212&theme=algolia" alt="Siddharth" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid121212&count_private=true&theme=algolia&layout=compact" alt="Siddharth" /></p>
-
-<br>
-<hr/>
-
-
-
-## ⚡ Recent GitHub Activity
-<a href="https://github.com/sid121212"><img alt="Sid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sid121212&custom_title=Sid's%20Contribution%20Graph&theme=react-dark" /></a>
-
-## 🐍
-  <br>
-  
-  ![snake gif](https://github.com/sid121212/sid121212/blob/output/github-contribution-grid-snake.gif)
-
-
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
