@@ -7,8 +7,8 @@
 <hr/>
 
 <h4 align="center">
-I'm a 4th year Undergraduate at NIIT University, I am passionate about DSA, Competitive Programming, and web technologies. <br />
-	Besides my College Studies, I like to create new web applications. It helps me learn a lot and grow as a developer while also excelling Data Structures and Algorithms.
+I'm a graduate, working as a Software Engineer in Top MNC's/PBC's, I am passionate about DSA, Competitive Programming, and web technologies. <br />
+	Besides my College Studies, I like to create new web/mobile applications. It helps me learn a lot and grow as a developer while also excelling Data Structures and Algorithms.
 </h4>
 <br>
 
