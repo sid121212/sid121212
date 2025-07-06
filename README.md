@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sid121212">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+@+PayPal;Java+%7C+Spring+Boot+%7C+GenAI+Enthusiast;React+Native+%7C+React+%7C+Django+Developer;DSA+%7C+Competitive+Programming;Always+Learning+New+Things&center=true&width=650&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+@+PayPal;Java+%7C+Spring+Boot+%7C+GenAI;React+Native+%7C+React+%7C+Django+Developer;DSA+%7C+Competitive+Programming;Always+Learning+New+Things&center=true&width=650&height=50">
   </a>
 </p>
 
